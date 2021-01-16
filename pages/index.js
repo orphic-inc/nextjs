@@ -3,6 +3,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
+    <meta name="google-site-verification" content="Il53quM7tON3iZfQE1rsHI33WXC6es8vEAK0wBJmq3E" />
     <div className={styles.container}>
       <Head>
         <title>Create Next App</title>
